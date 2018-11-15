@@ -1,0 +1,38 @@
+로그 수집기 (Log Aggregator) 솔루션들
+https://kimws.wordpress.com/2012/03/25/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0big-data-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%8B%9C%EC%9E%91-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%A1%9C%EA%B7%B8-%EC%88%98/
+
+한시간에 만드는 대용량 로그수집 분석 시스템
+http://bcho.tistory.com/1158
+
+FluentD를 이용한 로그 수집 서버 구성
+http://storyofdream.tistory.com/141
+
+로그수집 - Fluentd 테스트
+https://iyagi15.blog.me/10174378999
+
+Fluentd란 무엇인가
+https://blog.jonnung.com/system/2018/04/06/fluentd-log-collector-part1/?fbclid=IwAR1teBiJWHO4Mn2JIIatCr03EqmXOxt1RH36rMdrzpIPa-ivM0P6XVbdQ90
+http://bcho.tistory.com/1115?fbclid=IwAR2v0XKVkF-hkCuhfFP1L8EQIPQWDZ3GxMo4uM1sJJRPSOnNsYp801DgCfc
+
+[개발] 로그 수집기(Flume & hadoop)
+https://blog.naver.com/koys007/220749812320
+http://developordie.tistory.com/entry/%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91%EA%B8%B0-flume-hadoop-%EB%A7%8C%EB%93%A4%EA%B8%B0-4-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%88%98%EC%A7%91%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80?category=108973
+
+로그 수집관련 북마크
+https://blog.naver.com/junix/80176656463
+
+몽고디비 로그 분석 및 수집
+https://blog.naver.com/youngchanmm/221294273999
+http://givemesource.tistory.com/94
+
+ELKR(ElasticSearch + Logstash + Kibana + Redis)를 이용한 로그분석 환경 구축하기
+https://medium.com/chequer/elkr-elasticsearch-logstash-kibana-redis-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8%EB%B6%84%EC%84%9D-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-f3dd9dfae622
+
+오픈소스를 이용한 윈도우 기반 PC 로그 수집 시스템
+http://kiise.or.kr/e_journal/2016/7/KTCP/pdf/06.pdf
+
+로그 데이터 수집 FLUME Scribe Chukwa 비교
+http://www.dbguide.net/db.db?cmd=view&boardUid=186816&boardConfigUid=9&categoryUid=216&boardIdx=153&boardStep=1
+
+logstash 튜토리얼
+http://khanrc.tistory.com/entry/logstash-with-python
